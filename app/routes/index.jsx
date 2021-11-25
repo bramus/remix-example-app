@@ -22,6 +22,10 @@ export let loader = () => {
     ],
     demos: [
       {
+        to: "sessions",
+        name: "Sessions"
+      },
+      {
         to: "demos/actions",
         name: "Actions"
       },
